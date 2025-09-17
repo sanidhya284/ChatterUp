@@ -27,7 +27,7 @@ Make sure you have the following installed on your system:
    Open one terminal and run:
 
    ```bash
-   mongod
+   mongod --dbpath
    ```
 
 4. **Run the server**
@@ -51,6 +51,8 @@ Make sure you have the following installed on your system:
    ```
 
 6. **Start chatting!** 
+
+for detailed docs please refer - https://chatter-upp.hashnode.space/default-guide/v1.0?t=1758103620604
 
 ---
 
