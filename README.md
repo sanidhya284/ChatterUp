@@ -50,7 +50,9 @@ Make sure you have the following installed on your system:
    http://localhost:3000
    ```
 
-6. **Start chatting!** 
+6. **Start chatting!**
+
+Deployed here - https://chatterup-942v.onrender.com
 
 for detailed docs please refer - https://chatter-upp.hashnode.space/default-guide/v1.0?t=1758103620604
 
